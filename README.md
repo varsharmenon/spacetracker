@@ -4,8 +4,7 @@ A small Python project for tracking and analyzing space objects.
 
 ## Overview
 
-This repository contains a lightweight tracker implementation written in Python. It is intended to be a standalone project and is no longer part of the AlphaEngine workspace.
-
+This repository contains a lightweight tracker implementation written in Python. It is intended to be a standalone project I created to submit as part of my Grade 12.
 ## Files
 
 - `space_tracker.py` - Main tracker implementation
@@ -20,5 +19,5 @@ python space_tracker.py
 
 ## Notes
 
-- This project was separated from the main AlphaEngine repository.
-- It is intended to be developed and maintained independently.
+- MySQL as backend
+- Python as frontend
